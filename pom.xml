@@ -14,7 +14,7 @@
 	<name>L23-DataJpa-App1</name>
 	<description>JPA Project</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
